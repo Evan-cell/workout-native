@@ -16,6 +16,7 @@ export default function ExerciseListItem  ({item}) {
       padding: 10,
       borderRadius: 10,
       gap: 5,
+      marginHorizontal: 2,
     },
     exerciseName: {fontSize: 20,
        fontWeight: 'bold',
